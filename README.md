@@ -1,0 +1,2 @@
+# AD
+Apoio à Decisão
